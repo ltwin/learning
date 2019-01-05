@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="527f9e15-45f7-4c97-abfe-2dd905b3592f" name="learning_192.168.59.130" url="http://192.168.59.130">
+        <fileTransfer host="192.168.59.130" port="22" rootFolder="/saas/projects/learning" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
